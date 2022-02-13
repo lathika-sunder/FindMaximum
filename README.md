@@ -44,9 +44,9 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
-![output1](./EX07OUTPUT (2).PNG)
-![output2](./EX07OUTPUT (3).PNG)
-![output3](./EX07OUTPUT (4).PNG)
+![output1](./EX07OUTPUT (2).png)
+![output2](./EX07OUTPUT (3).png)
+![output3](./EX07OUTPUT (4).png)
 
 
 ## Output:
